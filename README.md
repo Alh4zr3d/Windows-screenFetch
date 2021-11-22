@@ -1,5 +1,7 @@
 # Windows screenFetch
 
+Al's note: This project has been forked and ported to Powershell 7.0 and above.
+
 <img src="screenshots/ss.png"/>
 
 #### ScreenFetch <hr>
