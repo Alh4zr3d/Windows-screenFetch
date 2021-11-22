@@ -59,5 +59,5 @@ A common fix is to run the powershell command `Set-ExecutionPolicy Unrestricted`
 #### Contact Me <hr>
 Below are my two most active social portals
 
-- `julianchow@outlook.com`
-- https://twitter.com/JulianChow94
+- `alh4zr3d@gmail.com`
+- https://twitter.com/Alh4zr3d
